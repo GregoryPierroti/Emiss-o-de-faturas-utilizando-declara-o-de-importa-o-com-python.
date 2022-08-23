@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListaDeclaracoes>
+    <declaracaoImportacao>
+        <adicao>
+            <cideValorAliquotaEspecifica>00000000000</cideValorAliquotaEspecifica>
+            <cideValorDevido>000000000000000</cideValorDevido>
+            <cideValorRecolher>000000000000000</cideValorRecolher>
+            <codigoRelacaoCompradorVendedor>2</codigoRelacaoCompradorVendedor>
+            <codigoVinculoCompradorVendedor>2</codigoVinculoCompradorVendedor>
+            <cofinsAliquotaAdValorem>0000</cofinsAliquotaAdValorem>
+            <cofinsAliquotaEspecificaQuantidadeUnidade>000000000</cofinsAliquotaEspecificaQuantidadeUnidade>
+            <cofinsAliquotaEspecificaValor>0000000000</cofinsAliquotaEspecificaValor>
+            <cofinsAliquotaReduzida>00000</cofinsAliquotaReduzida>
+            <cofinsAliquotaValorDevido>000000000000000</cofinsAliquotaValorDevido>
+            <cofinsAliquotaValorRecolher>000000000000000</cofinsAliquotaValorRecolher>
+            <condicaoVendaIncoterm>CIP</condicaoVendaIncoterm>
+            <condicaoVendaLocal>VIRACOPOS</condicaoVendaLocal>
+            <condicaoVendaMetodoValoracaoCodigo>01</condicaoVendaMetodoValoracaoCodigo>
+            <condicaoVendaMetodoValoracaoNome>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</condicaoVendaMetodoValoracaoNome>
+            <condicaoVendaMoedaCodigo>790</condicaoVendaMoedaCodigo>
+            <condicaoVendaMoedaNome>REAL/BRASIL</condicaoVendaMoedaNome>
+            <condicaoVendaValorMoeda>000000180904000</condicaoVendaValorMoeda>
+            <condicaoVendaValorReais>000000180904000</condicaoVendaValorReais>
+            <dadosCambiaisCoberturaCambialCodigo>1</dadosCambiaisCoberturaCambialCodigo>
+            <dadosCambiaisCoberturaCambialNome>xxxxxxxxxxxxxxxxxxxxxxxx</dadosCambiaisCoberturaCambialNome>
+            <dadosCambiaisInstituicaoFinanciadoraCodigo>00</dadosCambiaisInstituicaoFinanciadoraCodigo>
+            <dadosCambiaisInstituicaoFinanciadoraNome>N/I</dadosCambiaisInstituicaoFinanciadoraNome>
+            <dadosCambiaisMotivoSemCoberturaCodigo>00</dadosCambiaisMotivoSemCoberturaCodigo>
+            <dadosCambiaisMotivoSemCoberturaNome>N/I</dadosCambiaisMotivoSemCoberturaNome>
+            <dadosCambiaisValorRealCambio>000000000000000</dadosCambiaisValorRealCambio>
+            <dadosCargaPaisProcedenciaCodigo>000</dadosCargaPaisProcedenciaCodigo>
+            <dadosCargaUrfEntradaCodigo>0000000</dadosCargaUrfEntradaCodigo>
+            <dadosCargaViaTransporteCodigo>00</dadosCargaViaTransporteCodigo>
+            <dadosMercadoriaAplicacao>xxxxxxxxxx</dadosMercadoriaAplicacao>
+            <dadosMercadoriaCodigoNaladiNCCA>0000000</dadosMercadoriaCodigoNaladiNCCA>
+            <dadosMercadoriaCodigoNaladiSH>00000000</dadosMercadoriaCodigoNaladiSH>
+            <dadosMercadoriaCodigoNcm>30042029</dadosMercadoriaCodigoNcm>
+            <dadosMercadoriaCondicao>NOVA</dadosMercadoriaCondicao>
+            <dadosMercadoriaDescricaoTipoCertificado>Sem Certificado</dadosMercadoriaDescricaoTipoCertificado>
+            <dadosMercadoriaIndicadorTipoCertificado>1</dadosMercadoriaIndicadorTipoCertificado>
+            <dadosMercadoriaMedidaEstatisticaQuantidade>00000047200000</dadosMercadoriaMedidaEstatisticaQuantidade>
+            <dadosMercadoriaMedidaEstatisticaUnidade>QUILOGRAMA LIQUIDO</dadosMercadoriaMedidaEstatisticaUnidade>
+            <dadosMercadoriaNomeNcm>Outros</dadosMercadoriaNomeNcm>
+            <dadosMercadoriaPesoLiquido>000000047200000</dadosMercadoriaPesoLiquido>
+            <dcrCoeficienteReducao>00000</dcrCoeficienteReducao>
+            <dcrIdentificacao>00000000</dcrIdentificacao>
+            <dcrValorDevido>000000000000000</dcrValorDevido>
+            <dcrValorDolar>000000000000000</dcrValorDolar>
+            <dcrValorReal>000000000000000</dcrValorReal>
+            <dcrValorRecolher>000000000000000</dcrValorRecolher>
+            <destaqueNcm>
+                <numeroDestaque>002</numeroDestaque>
+            </destaqueNcm>
+            <destaqueNcm>
+                <numeroDestaque>002</numeroDestaque>
+            </destaqueNcm>
+            <fabricanteCidade>xxxxxxxxxxxxxxxx</fabricanteCidade>
+            <fabricanteEstado>EX</fabricanteEstado>
+            <fabricanteLogradouro>xxxxxxxxxx</fabricanteLogradouro>
+            <fabricanteNome>xxxxxxxxxxxxxxxxxxx</fabricanteNome>
+            <fabricanteNumero>1</fabricanteNumero>
+            <fornecedorCidade>xxxxxxxxxxx</fornecedorCidade>
+            <fornecedorEstado>EX</fornecedorEstado>
+            <fornecedorLogradouro>xxxxxxxxxxxxxxxxx</fornecedorLogradouro>
+            <fornecedorNome>xxxxxxxxxxxxx</fornecedorNome>
+            <fornecedorNumero>xx</fornecedorNumero>
+            <freteMoedaNegociadaCodigo>978</freteMoedaNegociadaCodigo>
+            <freteMoedaNegociadaNome>EURO/COM.EUROPEIA</freteMoedaNegociadaNome>
+            <freteValorMoedaNegociada>000000000639600</freteValorMoedaNegociada>
+            <freteValorReais>000000003485692</freteValorReais>
+            <iiAcordoTarifarioTipoCodigo>0</iiAcordoTarifarioTipoCodigo>
+            <iiAliquotaAcordo>00000</iiAliquotaAcordo>
+            <iiAliquotaAdValorem>00640</iiAliquotaAdValorem>
+            <iiAliquotaPercentualReducao>00000</iiAliquotaPercentualReducao>
+            <iiAliquotaReduzida>00000</iiAliquotaReduzida>
+            <iiAliquotaValorCalculado>000000011577856</iiAliquotaValorCalculado>
+            <iiAliquotaValorDevido>000000011577856</iiAliquotaValorDevido>
+            <iiAliquotaValorRecolher>000000011577856</iiAliquotaValorRecolher>
+            <iiAliquotaValorReduzido>000000000000000</iiAliquotaValorReduzido>
+            <iiBaseCalculo>000000180904000</iiBaseCalculo>
+            <iiFundamentoLegalCodigo>00</iiFundamentoLegalCodigo>
+            <iiMotivoAdmissaoTemporariaCodigo>00</iiMotivoAdmissaoTemporariaCodigo>
+            <iiRegimeTributacaoCodigo>1</iiRegimeTributacaoCodigo>
+            <iiRegimeTributacaoNome>xxxxxxxxxxxxx</iiRegimeTributacaoNome>
+            <ipiAliquotaAdValorem>00000</ipiAliquotaAdValorem>
+            <ipiAliquotaEspecificaCapacidadeRecipciente>00000</ipiAliquotaEspecificaCapacidadeRecipciente>
+            <ipiAliquotaEspecificaQuantidadeUnidadeMedida>000000000</ipiAliquotaEspecificaQuantidadeUnidadeMedida>
+            <ipiAliquotaEspecificaTipoRecipienteCodigo>00</ipiAliquotaEspecificaTipoRecipienteCodigo>
+            <ipiAliquotaEspecificaValorUnidadeMedida>0000000000</ipiAliquotaEspecificaValorUnidadeMedida>
+            <ipiAliquotaNotaComplementarTIPI>00</ipiAliquotaNotaComplementarTIPI>
+            <ipiAliquotaReduzida>00000</ipiAliquotaReduzida>
+            <ipiAliquotaValorDevido>000000000000000</ipiAliquotaValorDevido>
+            <ipiAliquotaValorRecolher>000000000000000</ipiAliquotaValorRecolher>
+            <ipiRegimeTributacaoCodigo>4</ipiRegimeTributacaoCodigo>
+            <ipiRegimeTributacaoNome>SEM BENEFICIO</ipiRegimeTributacaoNome>
+            <mercadoria>
+                <descricaoMercadoria>remedio</descricaoMercadoria>
+                <numeroSequencialItem>01</numeroSequencialItem>
+                <quantidade>00000800000000</quantidade>
+                <unidadeMedida>FRASCO              </unidadeMedida>
+                <valorUnitario>00000000002261300000</valorUnitario>
+            </mercadoria>
+            <nomenclaturaValorAduaneiro>
+                <atributo>AA</atributo>
+                <especificacao>9999</especificacao>
+                <nivelNome>SUBITEM             </nivelNome>
+            </nomenclaturaValorAduaneiro>
+            <numeroAdicao>001</numeroAdicao>
+            <numeroDI>1111111111</numeroDI>
+            <numeroLI>1111111111</numeroLI>
+            <paisAquisicaoMercadoriaCodigo>xxx</paisAquisicaoMercadoriaCodigo>
+            <paisAquisicaoMercadoriaNome>xxxxxx</paisAquisicaoMercadoriaNome>
+            <paisOrigemMercadoriaCodigo>xxx</paisOrigemMercadoriaCodigo>
+            <paisOrigemMercadoriaNome>xxxxx</paisOrigemMercadoriaNome>
+            <pisCofinsBaseCalculoAliquotaICMS>00000</pisCofinsBaseCalculoAliquotaICMS>
+            <pisCofinsBaseCalculoFundamentoLegalCodigo>76</pisCofinsBaseCalculoFundamentoLegalCodigo>
+            <pisCofinsBaseCalculoFundamentoLegalNome>PRODUTOS FARMACEUTICOS - DEC 6426/08, ART 2º, INC V.</pisCofinsBaseCalculoFundamentoLegalNome>
+            <pisCofinsBaseCalculoPercentualReducao>00000</pisCofinsBaseCalculoPercentualReducao>
+            <pisCofinsBaseCalculoValor>000000180904000</pisCofinsBaseCalculoValor>
+            <pisCofinsFundamentoLegalReducaoCodigo>00</pisCofinsFundamentoLegalReducaoCodigo>
+            <pisCofinsRegimeTributacaoCodigo>4</pisCofinsRegimeTributacaoCodigo>
+            <pisCofinsRegimeTributacaoNome>REDUCAO</pisCofinsRegimeTributacaoNome>
+            <pisPasepAliquotaAdValorem>00276</pisPasepAliquotaAdValorem>
+            <pisPasepAliquotaEspecificaQuantidadeUnidade>000000000</pisPasepAliquotaEspecificaQuantidadeUnidade>
+            <pisPasepAliquotaEspecificaValor>0000000000</pisPasepAliquotaEspecificaValor>
+            <pisPasepAliquotaReduzida>00000</pisPasepAliquotaReduzida>
+            <pisPasepAliquotaValorDevido>000000000000000</pisPasepAliquotaValorDevido>
+            <pisPasepAliquotaValorRecolher>000000000000000</pisPasepAliquotaValorRecolher>
+            <relacaoCompradorVendedor>Fabricante não é o Exportador</relacaoCompradorVendedor>
+            <seguroMoedaNegociadaCodigo>790</seguroMoedaNegociadaCodigo>
+            <seguroMoedaNegociadaNome>REAL/BRASIL</seguroMoedaNegociadaNome>
+            <seguroValorMoedaNegociada>000000000078331</seguroValorMoedaNegociada>
+            <seguroValorReais>000000000078331</seguroValorReais>
+            <sequencialRetificacao>00</sequencialRetificacao>
+            <valorMultaARecolher>000000000000000</valorMultaARecolher>
+            <valorMultaARecolherAjustado>000000000000000</valorMultaARecolherAjustado>
+            <valorReaisFreteInternacional>000000003485692</valorReaisFreteInternacional>
+            <valorReaisSeguroInternacional>000000000078331</valorReaisSeguroInternacional>
+            <valorTotalCondicaoVenda>18090400000000</valorTotalCondicaoVenda>
+            <vinculoCompradorVendedor>Há vinculação entre comprador e vendedor sem influência no preço da mercadoria.</vinculoCompradorVendedor>
+        </adicao>
+        <armazenamentoRecintoAduaneiroCodigo>xxxxxxxxxx</armazenamentoRecintoAduaneiroCodigo>
+        <armazenamentoRecintoAduaneiroNome>xxxxxxxxxxxxxxxxxxxxxx</armazenamentoRecintoAduaneiroNome>
+        <armazenamentoSetor>001</armazenamentoSetor>
+        <canalSelecaoParametrizada>001</canalSelecaoParametrizada>
+        <caracterizacaoOperacaoCodigoTipo>1</caracterizacaoOperacaoCodigoTipo>
+        <caracterizacaoOperacaoDescricaoTipo>Importação Própria</caracterizacaoOperacaoDescricaoTipo>
+        <cargaDataChegada>20220627</cargaDataChegada>
+        <cargaNumeroAgente>N/I</cargaNumeroAgente>
+        <cargaPaisProcedenciaCodigo>023</cargaPaisProcedenciaCodigo>
+        <cargaPaisProcedenciaNome>ALEMANHA</cargaPaisProcedenciaNome>
+        <cargaPesoBruto>000000106600000</cargaPesoBruto>
+        <cargaPesoLiquido>000000047200000</cargaPesoLiquido>
+        <cargaUrfEntradaCodigo>0817700</cargaUrfEntradaCodigo>
+        <cargaUrfEntradaNome>AEROPORTO INTERNACIONAL DE VIRACOPOS</cargaUrfEntradaNome>
+        <conhecimentoCargaEmbarqueData>20220623</conhecimentoCargaEmbarqueData>
+        <conhecimentoCargaEmbarqueLocal>FRANKFURT</conhecimentoCargaEmbarqueLocal>
+        <conhecimentoCargaId>0273752</conhecimentoCargaId>
+        <conhecimentoCargaIdMaster>02087710313</conhecimentoCargaIdMaster>
+        <conhecimentoCargaTipoCodigo>03</conhecimentoCargaTipoCodigo>
+        <conhecimentoCargaTipoNome>HAWB - House Airway Bill</conhecimentoCargaTipoNome>
+        <conhecimentoCargaUtilizacao>1</conhecimentoCargaUtilizacao>
+        <conhecimentoCargaUtilizacaoNome>Total</conhecimentoCargaUtilizacaoNome>
+        <dataDesembaraco>20210611</dataDesembaraco>
+        <dataRegistro>20210608</dataRegistro>
+        <documentoChegadaCargaCodigoTipo>3</documentoChegadaCargaCodigoTipo>
+        <documentoChegadaCargaNome>DTA</documentoChegadaCargaNome>
+        <documentoChegadaCargaNumero>1111111111</documentoChegadaCargaNumero>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>01</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>FATURA COMERCIAL                                            </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>xxxxxxxx                </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>28</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>CONHECIMENTO DE CARGA                                       </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>xxxxxxxxxxxxxxxxxxx      </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <documentoInstrucaoDespacho>
+            <codigoTipoDocumentoDespacho>29</codigoTipoDocumentoDespacho>
+            <nomeDocumentoDespacho>ROMANEIO DE CARGA                                           </nomeDocumentoDespacho>
+            <numeroDocumentoDespacho>xxxxxxxxxxx               </numeroDocumentoDespacho>
+        </documentoInstrucaoDespacho>
+        <dossie>
+            <dossieDataVinculacao>xxxxxx</dossieDataVinculacao>
+            <dossieHoraVinculacao>xxxxxx</dossieHoraVinculacao>
+            <dossieNumero>xxxxxxxxxxxxx</dossieNumero>
+            <indicadorDossieVazio>N</indicadorDossieVazio>
+        </dossie>
+        <embalagem>
+            <codigoTipoEmbalagem>01</codigoTipoEmbalagem>
+            <nomeEmbalagem>AMARRADO/ATADO/FEIXE                                        </nomeEmbalagem>
+            <quantidadeVolume>00003</quantidadeVolume>
+        </embalagem>
+        <freteCollect>000000000000000</freteCollect>
+        <freteEmTerritorioNacional>000000000000000</freteEmTerritorioNacional>
+        <freteMoedaNegociadaCodigo>978</freteMoedaNegociadaCodigo>
+        <freteMoedaNegociadaNome>EURO/COM.EUROPEIA</freteMoedaNegociadaNome>
+        <fretePrepaid>000000000639600</fretePrepaid>
+        <freteTotalDolares>000000000649830</freteTotalDolares>
+        <freteTotalMoeda>639600</freteTotalMoeda>
+        <freteTotalReais>000000003485692</freteTotalReais>
+        <icms>
+            <agenciaIcms>00000</agenciaIcms>
+            <bancoIcms>000</bancoIcms>
+            <codigoTipoRecolhimentoIcms>3</codigoTipoRecolhimentoIcms>
+            <cpfResponsavelRegistro>79274447604</cpfResponsavelRegistro>
+            <dataRegistro>20220713</dataRegistro>
+            <horaRegistro>091818</horaRegistro>
+            <nomeTipoRecolhimentoIcms>Exoneração do ICMS</nomeTipoRecolhimentoIcms>
+            <numeroSequencialIcms>001</numeroSequencialIcms>
+            <ufIcms>SP</ufIcms>
+            <valorTotalIcms>000000000000000</valorTotalIcms>
+        </icms>
+        <importadorCodigoTipo>1</importadorCodigoTipo>
+        <importadorCpfRepresentanteLegal>xxxxxxxxxxx</importadorCpfRepresentanteLegal>
+        <importadorEnderecoBairro>xxxxxxxxxxx</importadorEnderecoBairro>
+        <importadorEnderecoCep>xxxxxxxxx</importadorEnderecoCep>
+        <importadorEnderecoComplemento>xxxxxxxxxxxxx</importadorEnderecoComplemento>
+        <importadorEnderecoLogradouro>xxxxxxxxxxxxxx</importadorEnderecoLogradouro>
+        <importadorEnderecoMunicipio>xxxxxxxxxxxx</importadorEnderecoMunicipio>
+        <importadorEnderecoNumero>xxx</importadorEnderecoNumero>
+        <importadorEnderecoUf>xx</importadorEnderecoUf>
+        <importadorNome>xxxxxx &amp; xxxxxxxx</importadorNome>
+        <importadorNomeRepresentanteLegal>xxxxxxxxxxxxxxx</importadorNomeRepresentanteLegal>
+        <importadorNumero>xxxxxxxxx</importadorNumero>
+        <importadorNumeroTelefone>xxxxxxxxxxxx</importadorNumeroTelefone>
+        <informacaoComplementar>Informacoes Complementares
+------------------------------
+Processo de Importação -&gt; xxxxxxx
+Ident. master do conhecimento -&gt; xxxxxxxxx
+Referência do Despachante -&gt; REF01
+Identificação do conhecimento -&gt; XXXXXXXX
+Referência do cliente -&gt; PO XXXXXXXX
+Tipo de documento -&gt; HAWB (House airway bill)
+Data Embarque -&gt; 23/06/2021
+Data chegada -&gt; 27/06/2021
+Agente de Carga -&gt; XXXXXXXXXX &amp; XXXXXXXXXXX
+URF Despacho -&gt; [0817700]-AEROPORTO INTERNACIONAL DE VIRACOPOS
+Documentos Anexos / Outras Informações
+------------------------------
+Documento de Instrução -&gt; Conhecimento De Carga : XXXXXXXXX Fatura Comercial : XXXXXXXXXXXXX Romaneio De Carga : XXXXXXXXXXX
+Tipo de manifesto -&gt; DTA : XXXXXXXXXXX
+LI utilizadas(Sem Detalhes) -&gt; - Adição 1 - LI :XXXXXXXXXXXXX
+Navio/Containeres/Volumes
+------------------------------
+-&gt; Peso Bruto :1066
+-&gt;Liquido DI: 472 - [ Adicao 1: 472 ]
+Navio / Viagem -&gt; / XXXXXXXXXXX
+Volumes -&gt; Amarrado/Atado/Feixe : 3 /
+Taxas de Conversão
+------------------------------
+Taxas moedas -&gt; Euro/Com.Europeia [ 5.4498 ] / Real/Brasil [ 1 ]
+Valores
+------------------------------
+Cobertura Cambial -&gt; (Adições: 1 ) Até 180 dias
+Valores do Processo
+-----------------------------------------------------------------
+Real/Brasil Real Dólar
+-----------------------------------------------------------------
+VMLE -&gt; 1.773.399,77 1.773.399,77 330.611,44
+FRETE -&gt; 34.856,92 34.856,92 6.498,31
+SEGURO -&gt; 783,31 783,31 146,03
+CIF -&gt; 1.809.040,00 1.809.040,00 337.255,78
+Taxa Siscomex -&gt; R$ 154,23
+Valor de Qualquer Parcela -&gt; 0
+Tributos
+------------------------------
+II Recolher Importação -&gt; R$ 115778.56
+IPI Recolher Importação -&gt; R$ 0
+ICMS Recolher Importação -&gt; R$ 0
+PIS Recolher Importação -&gt; R$ 0
+Cofins Recolher Importação -&gt; R$ 0
+MEMORIA DE CALCULO PIS/COFINS, LEI 10.865, DE 30 ABRIL DE 2004
+CALCULO REALIZADO DE ACORDO COM A LEI No. 12.865, DE 09 DE OUTUBRO DE 2013
+(D.O.U 10/10/2013) E INSTRUCAO NORMATIVA SRF No 1.911, DE 11 DE OUTUBRO DE 2019 (D.O.U 15/10/2019)
+BASE DE CALCULO REDUZIDA ARTIGO 7o.
+BASE DE CALCULO PIS/COFINS....R$ 1.809.040,00
+5602 - PIS/PASEP IMPORTACAO...R$ 0,00
+5629 - COFINS IMPORTACAO......R$ 0,00
+AD. VL.ADUAN. II IPI QTDE PIS COFINS ICMS COFINS DEV PIS DEVIDO %RED
+--+----------+-----+-----+--------+-----+-----+-----+----------+-----------+-----
+001 1809040,00 6,40 0,00 0,00 2,76 13,03 0,00 0,00 0,00 0.00
+Bs Calc PIS/COFINS por adição
+Adição 1: R$ 1809040.00
+Outros
+------------------------------
+- BENS FINAIS (BF) ADICOES: PRODUTO: FCA U$:0 PESO LIQUIDO: 0.000000
+-&gt; - Adição 1 : 002
+
+.
+DESPACHANTES ADUANEIROS:
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+NATUREZA DA OPERACAO: REVENDA
+=================================================================
+ICMS ISENTO (ART 8 (ANEXO I, ART. 41, INC I, DO DECRETO 45.490 DE 30/11/2000 PRORROGADO PELO CONVENIO ICMS Nº 21/02));
+=================================================================
+.
+TAXA SISCOMEX..........: R$ 154.23
+.
+TAXA DOLAR.............: R$ 5,3640000
+TA
+XA EURO............... R$ 5,4498000
+TIPO DE CAMBIO.........: A PRAZO - 120 DIAS
+.
+[PIS/PASEP E COFINS] DE ACORDO COM A LEI 10.865/2004, ART. 8º, § 11 E DECRETO 6.426/2008, ART. 2º, OS PRODUTOS FARMACÊUTICOS QUE RELACIONA, CLASSIFICADOS NO CAPÍTULO 30 DA NCM, ENCONTRAM-SE COM ALÍQUOTA REDUZIDA A 0% PARA O PIS/PASEP-IMPORTAÇÃO E COFINS-IMPORTAÇÃO.
+|
+EMBARCADOR Intervet International GmbH
+Roemerstr. 10
+Neufarhn-Mintrach BY 85375 DE
+|
+|SOLICITO A ENTREGA DA CARGA PARA A (AS) TRANSPORTADORA (AS) INDICADA (AS) NESTA
+|&quot;DI&quot;,OBJETIVANDO SUA REGULARIZAÇÃO NO SISTEMA MANTRA PARA EFEITOS ADUANEIROS&quot;.
+|
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|
+|TRANSPORTADORAS/PESSOAS FISICAS E JURIDICAS AUTORIZADAS A EFETUAR A TROCA DE
+|PALLET/EMBALAGEM:
+|
+|XXXXXXXXXXXXXXXXX
+|CNPJ: XXXXXXXXXXXX</informacaoComplementar>
+        <localDescargaTotalDolares>000000033725577</localDescargaTotalDolares>
+        <localDescargaTotalReais>000000180904000</localDescargaTotalReais>
+        <localEmbarqueTotalDolares>000000033061144</localEmbarqueTotalDolares>
+        <localEmbarqueTotalReais>000000177339977</localEmbarqueTotalReais>
+        <modalidadeDespachoCodigo>1</modalidadeDespachoCodigo>
+        <modalidadeDespachoNome>Normal</modalidadeDespachoNome>
+        <numeroDI>1111111111</numeroDI>
+        <operacaoFundap>N</operacaoFundap>
+        <pagamento>
+            <agenciaPagamento>XXXXX </agenciaPagamento>
+            <bancoPagamento>XXX</bancoPagamento>
+            <codigoReceita>XXXX</codigoReceita>
+            <codigoTipoPagamento>1</codigoTipoPagamento>
+            <contaPagamento>              XXXXXXX</contaPagamento>
+            <dataPagamento>20220708</dataPagamento>
+            <nomeTipoPagamento>Débito em Conta</nomeTipoPagamento>
+            <numeroRetificacao>00</numeroRetificacao>
+            <valorJurosEncargos>000000000</valorJurosEncargos>
+            <valorMulta>000000000</valorMulta>
+            <valorReceita>000000011577856</valorReceita>
+        </pagamento>
+        <pagamento>
+            <agenciaPagamento>XXXXX </agenciaPagamento>
+            <bancoPagamento>XXXX</bancoPagamento>
+            <codigoReceita>XXXXXXX</codigoReceita>
+            <codigoTipoPagamento>1</codigoTipoPagamento>
+            <contaPagamento>              XXXXXXXX</contaPagamento>
+            <dataPagamento>20220708</dataPagamento>
+            <nomeTipoPagamento>Débito em Conta</nomeTipoPagamento>
+            <numeroRetificacao>00</numeroRetificacao>
+            <valorJurosEncargos>000000000</valorJurosEncargos>
+            <valorMulta>000000000</valorMulta>
+            <valorReceita>000000000015423</valorReceita>
+        </pagamento>
+        <seguroMoedaNegociadaCodigo>790</seguroMoedaNegociadaCodigo>
+        <seguroMoedaNegociadaNome>REAL/BRASIL</seguroMoedaNegociadaNome>
+        <seguroTotalDolares>000000000014603</seguroTotalDolares>
+        <seguroTotalMoedaNegociada>000000000078331</seguroTotalMoedaNegociada>
+        <seguroTotalReais>000000000078331</seguroTotalReais>
+        <sequencialRetificacao>00</sequencialRetificacao>
+        <situacaoEntregaCarga>ENTREGA AUTORIZADA</situacaoEntregaCarga>
+        <tipoDeclaracaoCodigo>01</tipoDeclaracaoCodigo>
+        <tipoDeclaracaoNome>CONSUMO</tipoDeclaracaoNome>
+        <totalAdicoes>001</totalAdicoes>
+        <urfDespachoCodigo>0817700</urfDespachoCodigo>
+        <urfDespachoNome>AEROPORTO INTERNACIONAL DE VIRACOPOS</urfDespachoNome>
+        <valorTotalMultaARecolherAjustado>000000000000000</valorTotalMultaARecolherAjustado>
+        <viaTransporteCodigo>04</viaTransporteCodigo>
+        <viaTransporteMultimodal>N</viaTransporteMultimodal>
+        <viaTransporteNome>AÉREA</viaTransporteNome>
+        <viaTransporteNomeTransportador>xxxxxxxxx</viaTransporteNomeTransportador>
+        <viaTransportePaisTransportadorCodigo>xxx</viaTransportePaisTransportadorCodigo>
+        <viaTransportePaisTransportadorNome>xxxxxxxxxxx</viaTransportePaisTransportadorNome>
+    </declaracaoImportacao>
+</ListaDeclaracoes>
