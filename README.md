@@ -1,4 +1,4 @@
-<h1>Emissão de faturas utilizando declaração de importação com python.<h1>
+Emissão de faturas utilizando declaração de importação com python.
 
 O projeto se trata de uma automação realizada via codificação python, no qual tem a intenção de utilizar uma fonte de arquivos XML de uma declaração de importação, e através da mesma, após alguns calculos e modificações de dados específicos, é montado uma fatura, constando informações que são importantes para o cliente dar entrada em seu sistema, e essa fatura é emitida via arquivo excel. A automação, le os dados do xml, cria uma estrutura que recebe esses dados modificados e alimenta uma planilha excel para cada importação realizada, a fonte de dados consta na pasta XML, os arquivos 'modele' e 'nova tabela sicomex' são outras fontes para criar a fatura e ajudar em um calculo respectivamente, enquanto o arquivo PO XXXXXXXXXXX, seria o arquivo final gerado pela automação, lembrando que por conter diversos dados sensíveis, eu censurei os mesmos para nõa haver exposição de terceiros.
 
